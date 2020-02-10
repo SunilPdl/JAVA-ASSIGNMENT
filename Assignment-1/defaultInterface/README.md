@@ -84,8 +84,7 @@ SN.No | Title | LINK
 6| An abstract class can extend another Java class and implement multiple Java interfaces. | An interface can extend another Java interface only.
 7| An abstract class can be extended using keyword "extends". | An interface can be implemented using keyword "implements".
 8| A Java abstract class can have class members like private, protected, etc. | Members of a Java interface are public by default.
-9|Example:
-public abstract class Shape{public abstract void draw();} | Example:public interface Drawable{void draw();}
+9|Example:public abstract class Shape{public abstract void draw();} | Example:public interface Drawable{void draw();}
 
 
 
