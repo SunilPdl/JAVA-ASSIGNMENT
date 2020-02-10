@@ -44,7 +44,10 @@ class TestClass implements TestInterface
 ## Inheritance In Java
 
 
-	The process by which one class acquires the properties or data members and functionalities or methods of another class is called inheritance. The aim of inheritance is to provide the reusability of code so that a class has to write only the unique features and rest of the common properties and functionalities can be extended from the another class.
+	The process by which one class acquires the properties or data members and functionalities or methods of
+	another class is called inheritance. The aim of inheritance is to provide the reusability of code so that
+	a class has to write only the unique features and rest of the common properties and functionalities can be
+	extended from the another class.
 	
 ## Example:
 ```java
