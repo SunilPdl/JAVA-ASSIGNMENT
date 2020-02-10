@@ -1,5 +1,5 @@
  
-##Default Method In Interface 
+## Default Method In Interface 
 
  Before Java 8, interfaces could have only abstract methods. The implementation of these methods has to be provided in a separate class. So, if a new method is to be added in an interface, then its implementation code has to be provided in the class implementing the same interface. To overcome this issue, Java 8 has introduced the concept of default methods which allow the interfaces to have methods with implementation without affecting the classes that implement the interface.
 
@@ -41,12 +41,12 @@ class TestClass implements TestInterface
 
 
 
- Inheritance In Java
+## Inheritance In Java
 
 
 	The process by which one class acquires the properties or data members and functionalities or methods of another class is called inheritance. The aim of inheritance is to provide the reusability of code so that a class has to write only the unique features and rest of the common properties and functionalities can be extended from the another class.
 	
-	##Example
+## Example:
 ```java
 	class Teacher {
    String designation = "Teacher";
@@ -73,7 +73,7 @@ public class PhysicsTeacher extends Teacher{
 
 
 
-##Difference between Abstract class	Interface
+## Difference between Abstract class Interface
 SN.No | Title | LINK
 :----:|:---------------:|:---------------:
 1| Abstract class can have abstract and non-abstract methods. | Interface can have only abstract methods. Since Java 8, it can have default and static methods also.
@@ -97,7 +97,7 @@ void draw();
 
 
 
-##Nested Interface
+## Nested Interface
 
 
 We can declare an interface in another interface or class. Such an interface is termed as a nested interface.
@@ -109,7 +109,7 @@ A nested interface declared within a class can have any access modifier.
 A nested interface is by default static.
 Following is an example of a nested interface.
 
-Example
+## Example
 ```java
 Live Demo
 
