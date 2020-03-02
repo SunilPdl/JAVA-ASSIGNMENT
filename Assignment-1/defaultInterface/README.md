@@ -5,7 +5,7 @@
 
 
 
-// A simple program to Test Interface default 
+#### A simple program to Test Interface default 
 ```java
 interface TestInterface 
 { 
