@@ -4,8 +4,9 @@ Changing the state of an object is known as an event. For example, click on butt
 
 
 ## Java Event classes and Listener interfaces
-|-------------------|--------------------|
+
 | Event Classes | Listener Interfaces|
+|-------------------|--------------------|
 | ActionEvent | ActionListener |
 | MouseEvent | MouseListener and MouseMotionListener |
 | MouseWheelEvent | MouseWheelListener |
