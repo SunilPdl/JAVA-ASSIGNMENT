@@ -23,7 +23,6 @@ The FlowLayout is usedd to arrange the components on a line one after another (i
 ## Example of FlowLayout class
 
 ```java
-FlowLayout class
 import java.awt.*;  
 import javax.swing.*;  
   
