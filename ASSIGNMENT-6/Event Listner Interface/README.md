@@ -1,4 +1,4 @@
-# Event and Listener (Java Event Handling)
+# Event and Listener 
 
 Changing the state of an object is known as an event. For example, click on button, dragging mouse etc. The java.awt.event package provides many event classes and Listener interfaces for event handling.
 
