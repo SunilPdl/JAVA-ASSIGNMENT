@@ -4,8 +4,9 @@ Java adapter classes provide the default implementation of listener interfaces. 
 The adapter classes are found in java.awt.event, java.awt.dnd and javax.swing.event packages. The Adapter classes with their corresponding listener interfaces are given below.
 
 java.awt.event Adapter classes
+
 Adapter class  | Listener interface
-----------------|---------------------
+--------------|------------------
 WindowAdapter |	WindowListener
 KeyAdapter | KeyListener
 MouseAdapter |	MouseListener
