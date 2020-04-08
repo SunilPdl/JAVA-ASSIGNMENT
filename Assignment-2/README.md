@@ -9,7 +9,7 @@ Anonymous array is passed as an argument of method
 ###### anonymous int array 
 new int[] { 1, 2, 3, 4};  
 
-######anonymous char array 
+###### anonymous char array 
 new char[] {'x', 'y', 'z'); 
 
 ###### anonymous String array
